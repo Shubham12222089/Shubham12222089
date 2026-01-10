@@ -28,7 +28,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/langchain/ffffff" width="40"/>
 <img src="https://cdn.simpleicons.org/ollama/ffffff" width="40"/>
-<img src="https://cdn.simpleicons.org/x/ffffff" width="40"/>
+
 <img src="https://cdn.simpleicons.org/mlflow/ffffff" width="40"/>
 
 
