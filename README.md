@@ -29,7 +29,6 @@
 <img src="https://cdn.simpleicons.org/langchain/ffffff" width="40"/>
 <img src="https://cdn.simpleicons.org/ollama/ffffff" width="40"/>
 <img src="https://cdn.simpleicons.org/x/ffffff" width="40"/>
-<img src="https://cdn.simpleicons.org/dagshub/ffffff" width="40"/>
 <img src="https://cdn.simpleicons.org/mlflow/ffffff" width="40"/>
 
 
